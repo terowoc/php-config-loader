@@ -19,7 +19,5 @@
         "psr-4": {
             "Terowoc\\PHPConfigLoader": "src/"
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
