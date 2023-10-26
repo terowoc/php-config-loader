@@ -2,14 +2,12 @@
     "name": "terowoc/php-config-loader",
     "type": "library",
     "description": "Configs loader library for PHP",
-  	"homepage":    "https://github.com/terowoc/php-config-loader",
     "keywords": ["config-loader", "library"],
     "license": "MIT",
     "authors": [
         {
             "name": "Abdulloh Azimboev",
             "email": "dev@azimboev.uz",
-            "homepage": "https://github.com/terowoc"
         }
     ],
     "require": {
