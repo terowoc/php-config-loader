@@ -1,21 +1,20 @@
 {
     "name": "terowoc/php-config-loader",
+    "description": "DataCore Library for PHP",
     "type": "library",
-    "description": "Configs loader library for PHP",
-    "keywords": ["config-loader", "library"],
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Terowoc\\PHPConfigLoader\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Abdulloh Azimboev",
-            "email": "dev@azimboev.uz",
+            "email": "dev@azimboev.uz"
         }
     ],
     "require": {
         "php": "^8.2"
-    },
-    "autoload": {
-        "psr-4": {
-            "Terowoc\\PHPConfigLoader": "src/"
-        }
     }
 }
