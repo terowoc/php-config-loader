@@ -1,6 +1,6 @@
 {
     "name": "terowoc/php-config-loader",
-    "description": "DataCore Library for PHP",
+    "description": "Configs loader Library for PHP",
     "type": "library",
     "license": "MIT",
     "autoload": {
